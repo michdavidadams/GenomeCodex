@@ -25,6 +25,9 @@ class GenomeCodexView extends WatchUi.WatchFace {
         var width = dc.getWidth();
         var height = dc.getHeight();
         var activityMonitorInfo = System.ActivityMonitor.getInfo();
+        var healthColor = getHealthColor(activityMonitorInfo.moveBarLevel);
+        var systemStats = System.getSystemStats();
+        System.println("getSystemsStats battery: " + systemStats.battery);
 
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
         dc.fillRectangle(0, 0, width, height);
@@ -39,7 +42,7 @@ class GenomeCodexView extends WatchUi.WatchFace {
         dc.fillRectangle(0, 120, 280, 5);
 
         // Heart rate line
-        dc.setColor(Graphics.COLOR_GREEN, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(healthColor, Graphics.COLOR_TRANSPARENT);
         // Left of time
         dc.drawLine(0, 70, 10, 70);
         dc.drawLine(10, 70, 15, 68);
@@ -64,15 +67,10 @@ class GenomeCodexView extends WatchUi.WatchFace {
         dc.setColor(Graphics.COLOR_GREEN,Graphics.COLOR_BLACK);
 		dc.drawText(width/2,60,Graphics.FONT_LARGE,timeString,Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         dc.drawText(width/2,90,Graphics.FONT_XTINY,dateString,Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
-    
-        // Move bar indicator (Green bar on bottom right)
-        var moveBarLevel = activityMonitorInfo.moveBarLevel;
-        dc.drawText(160,90,Graphics.FONT_XTINY,moveBarLevel,Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
 
-        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+        // Move bar indicator (Health bar on bottom right)
+        dc.setColor(healthColor, Graphics.COLOR_TRANSPARENT);
         dc.fillRoundedRectangle(120, 170, 150, 5, 10);
-        dc.setColor(Graphics.COLOR_GREEN, Graphics.COLOR_TRANSPARENT);
-        dc.fillRoundedRectangle(120, 170, (150 * (moveBarLevel/5)), 5, 10);
 
         // Yellow (Orange) heart at bottom left
         dc.setColor(Graphics.COLOR_YELLOW, Graphics.COLOR_TRANSPARENT);
@@ -80,10 +78,25 @@ class GenomeCodexView extends WatchUi.WatchFace {
 
         // White lines at bottom beside yellow heart
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-        dc.fillRoundedRectangle(65, 160, 20, 3, 10);
-        dc.fillRoundedRectangle(65, 165, 15, 3, 10);
-        dc.fillRoundedRectangle(65, 170, 20, 3, 10);
-        dc.fillRoundedRectangle(65, 175, 25, 3, 10);
+        // Battery is 1st line
+        var batteryPercentage = systemStats.battery;
+        if(batteryPercentage == null) {
+            batteryPercentage = 1.0;
+            System.print("batteryPercentage is null");
+        }
+        dc.fillRoundedRectangle(65, 160, (0.3 * batteryPercentage), 3, 10);
+        dc.fillRoundedRectangle(65, 165, 30, 3, 10);
+        // Steps is 3rd line, with 4th line being the max value the bar can get so user can eyeball total
+        var steps = activityMonitorInfo.steps;
+        if(steps == null) {
+            steps = 1;
+        }
+        var stepGoal = activityMonitorInfo.stepGoal;
+        if(stepGoal == null) {
+            stepGoal = 1;
+        }
+        dc.fillRoundedRectangle(65, 165, (30 * (steps/stepGoal)), 3, 10);
+        dc.fillRoundedRectangle(65, 175, 30, 3, 10);
     }
 
     // Called when this View is removed from the screen. Save the
@@ -103,16 +116,33 @@ class GenomeCodexView extends WatchUi.WatchFace {
     hidden function getClockTime(clockTime) {
         var hour, min, ampm, result;
 
-hour = clockTime.hour;
-min = clockTime.min.format("%02d");
+        hour = clockTime.hour;
+        min = clockTime.min.format("%02d");
+        ampm = (hour > 11) ? "PM" : "AM";
+        hour = hour % 12;
+        hour = (hour == 0) ? 12 : hour;
 
-ampm = (hour > 11) ? "PM" : "AM";
-hour = hour % 12;
-hour = (hour == 0) ? 12 : hour;
-
-result = Lang.format("$1$:$2$ $3$", [hour, min, ampm]);
-return result; 
+        result = Lang.format("$1$:$2$ $3$", [hour, min, ampm]);
+        return result; 
     }
 
+    // Sets health color (green, yellow, red)
+    hidden function getHealthColor(moveBarLevel) {
+        if(moveBarLevel == null) {
+            moveBarLevel = 0;
+            System.println("moveBarLevel in getHealthColor() is null");
+        }
+        var moveBarPercentage = moveBarLevel/5;
+        System.println("moveBarPercentage in getHealthColor() is " + moveBarPercentage);
+        if(moveBarPercentage >= 0.75) {
+            return Graphics.COLOR_RED;
+        } else if(moveBarPercentage >= 0.50) {
+            return Graphics.COLOR_YELLOW;
+        } else if(moveBarPercentage >= 0.0) {
+            return Graphics.COLOR_GREEN;
+        } else {
+            return Graphics.COLOR_GREEN;
+        }
+    }
 
 }

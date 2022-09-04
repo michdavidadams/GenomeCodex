@@ -39,72 +39,75 @@
         <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="65" parent="globals/GenomeCodexView" pc="268436320" symbol="onUpdate"/>
         <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="66" parent="globals/GenomeCodexView" pc="268436368" symbol="onUpdate"/>
         <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="67" parent="globals/GenomeCodexView" pc="268436444" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="68" parent="globals/GenomeCodexView" pc="268436480" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="69" parent="globals/GenomeCodexView" pc="268436544" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="72" parent="globals/GenomeCodexView" pc="268436608" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="73" parent="globals/GenomeCodexView" pc="268436634" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="76" parent="globals/GenomeCodexView" pc="268436671" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="77" parent="globals/GenomeCodexView" pc="268436707" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="80" parent="globals/GenomeCodexView" pc="268436734" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="82" parent="globals/GenomeCodexView" pc="268436770" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="83" parent="globals/GenomeCodexView" pc="268436780" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="84" parent="globals/GenomeCodexView" pc="268436787" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="85" parent="globals/GenomeCodexView" pc="268436794" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="87" parent="globals/GenomeCodexView" pc="268436818" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="88" parent="globals/GenomeCodexView" pc="268436858" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="90" parent="globals/GenomeCodexView" pc="268436895" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="91" parent="globals/GenomeCodexView" pc="268436905" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="92" parent="globals/GenomeCodexView" pc="268436912" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="94" parent="globals/GenomeCodexView" pc="268436922" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="95" parent="globals/GenomeCodexView" pc="268436932" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="96" parent="globals/GenomeCodexView" pc="268436939" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="98" parent="globals/GenomeCodexView" pc="268436949" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="99" parent="globals/GenomeCodexView" pc="268436992" symbol="onUpdate"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="4" lineNum="105" parent="globals/GenomeCodexView" pc="268437030" symbol="onHide"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="5" lineNum="109" parent="globals/GenomeCodexView" pc="268437035" symbol="onExitSleep"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="6" lineNum="113" parent="globals/GenomeCodexView" pc="268437040" symbol="onEnterSleep"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="116" parent="globals/GenomeCodexView" pc="268437045" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="117" parent="globals/GenomeCodexView" pc="268437049" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="119" parent="globals/GenomeCodexView" pc="268437049" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="120" parent="globals/GenomeCodexView" pc="268437059" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="121" parent="globals/GenomeCodexView" pc="268437083" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="122" parent="globals/GenomeCodexView" pc="268437109" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="123" parent="globals/GenomeCodexView" pc="268437119" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="125" parent="globals/GenomeCodexView" pc="268437142" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="126" parent="globals/GenomeCodexView" pc="268437200" symbol="getClockTime"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="130" parent="globals/GenomeCodexView" pc="268437204" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="131" parent="globals/GenomeCodexView" pc="268437208" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="132" parent="globals/GenomeCodexView" pc="268437215" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="133" parent="globals/GenomeCodexView" pc="268437222" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="135" parent="globals/GenomeCodexView" pc="268437246" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="136" parent="globals/GenomeCodexView" pc="268437256" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="137" parent="globals/GenomeCodexView" pc="268437280" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="138" parent="globals/GenomeCodexView" pc="268437291" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="139" parent="globals/GenomeCodexView" pc="268437307" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="140" parent="globals/GenomeCodexView" pc="268437318" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="141" parent="globals/GenomeCodexView" pc="268437334" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="142" parent="globals/GenomeCodexView" pc="268437345" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="144" parent="globals/GenomeCodexView" pc="268437361" symbol="getHealthColor"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="9" lineNum="9" parent="globals/GenomeCodexView" pc="268437528" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="9" lineNum="9" parent="globals/GenomeCodexView" pc="268437528" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="11" lineNum="7" parent="globals/GenomeCodexApp" pc="268437375" symbol="initialize"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="11" lineNum="8" parent="globals/GenomeCodexApp" pc="268437379" symbol="initialize"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="12" lineNum="12" parent="globals/GenomeCodexApp" pc="268437398" symbol="onStart"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="13" lineNum="16" parent="globals/GenomeCodexApp" pc="268437403" symbol="onStop"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="14" lineNum="20" parent="globals/GenomeCodexApp" pc="268437408" symbol="getInitialView"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="14" lineNum="21" parent="globals/GenomeCodexApp" pc="268437412" symbol="getInitialView"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="15" lineNum="5" parent="globals/GenomeCodexApp" pc="268437509" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="15" lineNum="5" parent="globals/GenomeCodexApp" pc="268437509" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="16" lineNum="26" parent="globals" pc="268437454" symbol="getApp"/>
-        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="16" lineNum="27" parent="globals" pc="268437466" symbol="getApp"/>
-        <entry filename="Rez" id="18" lineNum="2" parent="globals/Rez/Drawables" pc="268437503" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="19" lineNum="6" parent="globals/Rez/Fonts" pc="268437505" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="20" lineNum="8" parent="globals/Rez/JsonData" pc="268437507" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="21" lineNum="10" parent="globals/Rez/Layouts" pc="268437506" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="22" lineNum="12" parent="globals/Rez/Menus" pc="268437504" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="23" lineNum="14" parent="globals/Rez/Strings" pc="268437508" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268437484" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268437484" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="68" parent="globals/GenomeCodexView" pc="268436470" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="69" parent="globals/GenomeCodexView" pc="268436534" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="72" parent="globals/GenomeCodexView" pc="268436598" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="73" parent="globals/GenomeCodexView" pc="268436624" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="76" parent="globals/GenomeCodexView" pc="268436661" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="77" parent="globals/GenomeCodexView" pc="268436697" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="80" parent="globals/GenomeCodexView" pc="268436724" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="82" parent="globals/GenomeCodexView" pc="268436760" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="83" parent="globals/GenomeCodexView" pc="268436770" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="84" parent="globals/GenomeCodexView" pc="268436777" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="85" parent="globals/GenomeCodexView" pc="268436784" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="87" parent="globals/GenomeCodexView" pc="268436808" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="88" parent="globals/GenomeCodexView" pc="268436848" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="90" parent="globals/GenomeCodexView" pc="268436885" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="91" parent="globals/GenomeCodexView" pc="268436895" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="92" parent="globals/GenomeCodexView" pc="268436902" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="93" parent="globals/GenomeCodexView" pc="268436909" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="95" parent="globals/GenomeCodexView" pc="268436933" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="96" parent="globals/GenomeCodexView" pc="268436943" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="97" parent="globals/GenomeCodexView" pc="268436950" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="98" parent="globals/GenomeCodexView" pc="268436957" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="100" parent="globals/GenomeCodexView" pc="268436981" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="101" parent="globals/GenomeCodexView" pc="268437014" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="3" lineNum="102" parent="globals/GenomeCodexView" pc="268437057" symbol="onUpdate"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="4" lineNum="108" parent="globals/GenomeCodexView" pc="268437095" symbol="onHide"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="5" lineNum="112" parent="globals/GenomeCodexView" pc="268437100" symbol="onExitSleep"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="6" lineNum="116" parent="globals/GenomeCodexView" pc="268437105" symbol="onEnterSleep"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="119" parent="globals/GenomeCodexView" pc="268437110" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="120" parent="globals/GenomeCodexView" pc="268437114" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="122" parent="globals/GenomeCodexView" pc="268437114" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="123" parent="globals/GenomeCodexView" pc="268437124" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="124" parent="globals/GenomeCodexView" pc="268437148" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="125" parent="globals/GenomeCodexView" pc="268437174" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="126" parent="globals/GenomeCodexView" pc="268437184" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="128" parent="globals/GenomeCodexView" pc="268437207" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="7" lineNum="129" parent="globals/GenomeCodexView" pc="268437265" symbol="getClockTime"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="133" parent="globals/GenomeCodexView" pc="268437269" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="134" parent="globals/GenomeCodexView" pc="268437273" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="135" parent="globals/GenomeCodexView" pc="268437280" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="136" parent="globals/GenomeCodexView" pc="268437287" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="138" parent="globals/GenomeCodexView" pc="268437311" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="139" parent="globals/GenomeCodexView" pc="268437321" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="140" parent="globals/GenomeCodexView" pc="268437345" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="141" parent="globals/GenomeCodexView" pc="268437356" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="142" parent="globals/GenomeCodexView" pc="268437372" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="143" parent="globals/GenomeCodexView" pc="268437383" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="144" parent="globals/GenomeCodexView" pc="268437399" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="145" parent="globals/GenomeCodexView" pc="268437410" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="8" lineNum="147" parent="globals/GenomeCodexView" pc="268437426" symbol="getHealthColor"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="9" lineNum="9" parent="globals/GenomeCodexView" pc="268437593" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexView.mc" id="9" lineNum="9" parent="globals/GenomeCodexView" pc="268437593" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="11" lineNum="7" parent="globals/GenomeCodexApp" pc="268437440" symbol="initialize"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="11" lineNum="8" parent="globals/GenomeCodexApp" pc="268437444" symbol="initialize"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="12" lineNum="12" parent="globals/GenomeCodexApp" pc="268437463" symbol="onStart"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="13" lineNum="16" parent="globals/GenomeCodexApp" pc="268437468" symbol="onStop"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="14" lineNum="20" parent="globals/GenomeCodexApp" pc="268437473" symbol="getInitialView"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="14" lineNum="21" parent="globals/GenomeCodexApp" pc="268437477" symbol="getInitialView"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="15" lineNum="5" parent="globals/GenomeCodexApp" pc="268437574" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="15" lineNum="5" parent="globals/GenomeCodexApp" pc="268437574" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="16" lineNum="26" parent="globals" pc="268437519" symbol="getApp"/>
+        <entry filename="/Users/michaeladams/Developer/Genome Codex Face/GenomeCodex/source/GenomeCodexApp.mc" id="16" lineNum="27" parent="globals" pc="268437531" symbol="getApp"/>
+        <entry filename="Rez" id="18" lineNum="2" parent="globals/Rez/Drawables" pc="268437568" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="19" lineNum="6" parent="globals/Rez/Fonts" pc="268437570" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="20" lineNum="8" parent="globals/Rez/JsonData" pc="268437572" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="21" lineNum="10" parent="globals/Rez/Layouts" pc="268437571" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="12" parent="globals/Rez/Menus" pc="268437569" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="14" parent="globals/Rez/Strings" pc="268437573" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268437549" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268437549" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -151,28 +154,28 @@
     </symbolTable>
     <localVars>
         <entry endPc="268435813" name="i" stackId="7" startPc="268435753"/>
-        <entry endPc="268437028" name="timeString" stackId="9" startPc="268435488"/>
-        <entry endPc="268437028" name="systemStats" stackId="6" startPc="268435488"/>
-        <entry endPc="268437028" name="width" stackId="2" startPc="268435488"/>
-        <entry endPc="268437028" name="activityMonitorInfo" stackId="4" startPc="268435488"/>
-        <entry endPc="268437028" name="clockTime" stackId="8" startPc="268435488"/>
-        <entry endPc="268437028" name="clockDate" stackId="10" startPc="268435488"/>
-        <entry endPc="268437028" name="batteryPercentage" stackId="12" startPc="268435488"/>
-        <entry endPc="268437028" name="stepGoal" stackId="14" startPc="268435488"/>
-        <entry endPc="268437028" name="steps" stackId="13" startPc="268435488"/>
-        <entry endPc="268437028" name="dateString" stackId="11" startPc="268435488"/>
-        <entry endPc="268437028" name="healthColor" stackId="5" startPc="268435488"/>
-        <entry endPc="268437028" name="height" stackId="3" startPc="268435488"/>
-        <entry arg="true" endPc="268437029" name="dc" stackId="1" startPc="268435484"/>
-        <entry endPc="268437202" name="result" stackId="5" startPc="268437049"/>
-        <entry endPc="268437202" name="hour" stackId="2" startPc="268437049"/>
-        <entry endPc="268437202" name="ampm" stackId="4" startPc="268437049"/>
-        <entry endPc="268437202" name="min" stackId="3" startPc="268437049"/>
-        <entry arg="true" endPc="268437203" name="clockTime" stackId="1" startPc="268437045"/>
-        <entry endPc="268437373" name="moveBarPercentage" stackId="2" startPc="268437208"/>
-        <entry arg="true" endPc="268437374" name="moveBarLevel" stackId="1" startPc="268437204"/>
-        <entry arg="true" endPc="268437402" name="state" stackId="1" startPc="268437398"/>
-        <entry arg="true" endPc="268437407" name="state" stackId="1" startPc="268437403"/>
+        <entry endPc="268437093" name="timeString" stackId="9" startPc="268435488"/>
+        <entry endPc="268437093" name="systemStats" stackId="6" startPc="268435488"/>
+        <entry endPc="268437093" name="width" stackId="2" startPc="268435488"/>
+        <entry endPc="268437093" name="activityMonitorInfo" stackId="4" startPc="268435488"/>
+        <entry endPc="268437093" name="clockTime" stackId="8" startPc="268435488"/>
+        <entry endPc="268437093" name="clockDate" stackId="10" startPc="268435488"/>
+        <entry endPc="268437093" name="batteryPercentage" stackId="12" startPc="268435488"/>
+        <entry endPc="268437093" name="stepGoal" stackId="14" startPc="268435488"/>
+        <entry endPc="268437093" name="steps" stackId="13" startPc="268435488"/>
+        <entry endPc="268437093" name="dateString" stackId="11" startPc="268435488"/>
+        <entry endPc="268437093" name="healthColor" stackId="5" startPc="268435488"/>
+        <entry endPc="268437093" name="height" stackId="3" startPc="268435488"/>
+        <entry arg="true" endPc="268437094" name="dc" stackId="1" startPc="268435484"/>
+        <entry endPc="268437267" name="result" stackId="5" startPc="268437114"/>
+        <entry endPc="268437267" name="hour" stackId="2" startPc="268437114"/>
+        <entry endPc="268437267" name="ampm" stackId="4" startPc="268437114"/>
+        <entry endPc="268437267" name="min" stackId="3" startPc="268437114"/>
+        <entry arg="true" endPc="268437268" name="clockTime" stackId="1" startPc="268437110"/>
+        <entry endPc="268437438" name="moveBarPercentage" stackId="2" startPc="268437273"/>
+        <entry arg="true" endPc="268437439" name="moveBarLevel" stackId="1" startPc="268437269"/>
+        <entry arg="true" endPc="268437467" name="state" stackId="1" startPc="268437463"/>
+        <entry arg="true" endPc="268437472" name="state" stackId="1" startPc="268437468"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -197,69 +200,69 @@
         <functionEntry accessMode="public" endPc="268435483" name="onShow" parent="GenomeCodexView" startPc="268435479">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437029" name="onUpdate" parent="GenomeCodexView" startPc="268435484">
+        <functionEntry accessMode="public" endPc="268437094" name="onUpdate" parent="GenomeCodexView" startPc="268435484">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437034" name="onHide" parent="GenomeCodexView" startPc="268437030">
+        <functionEntry accessMode="public" endPc="268437099" name="onHide" parent="GenomeCodexView" startPc="268437095">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437039" name="onExitSleep" parent="GenomeCodexView" startPc="268437035">
+        <functionEntry accessMode="public" endPc="268437104" name="onExitSleep" parent="GenomeCodexView" startPc="268437100">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437044" name="onEnterSleep" parent="GenomeCodexView" startPc="268437040">
+        <functionEntry accessMode="public" endPc="268437109" name="onEnterSleep" parent="GenomeCodexView" startPc="268437105">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437203" name="getClockTime" parent="GenomeCodexView" startPc="268437045">
+        <functionEntry accessMode="protected" endPc="268437268" name="getClockTime" parent="GenomeCodexView" startPc="268437110">
             <param id="clockTime"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437374" name="getHealthColor" parent="GenomeCodexView" startPc="268437204">
+        <functionEntry accessMode="protected" endPc="268437439" name="getHealthColor" parent="GenomeCodexView" startPc="268437269">
             <param id="moveBarLevel"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437546" name="&lt;init&gt;" parent="GenomeCodexView" startPc="268437528">
+        <functionEntry accessMode="protected" endPc="268437611" name="&lt;init&gt;" parent="GenomeCodexView" startPc="268437593">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437397" name="initialize" parent="GenomeCodexApp" startPc="268437375">
+        <functionEntry accessMode="public" endPc="268437462" name="initialize" parent="GenomeCodexApp" startPc="268437440">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437402" name="onStart" parent="GenomeCodexApp" startPc="268437398">
+        <functionEntry accessMode="public" endPc="268437467" name="onStart" parent="GenomeCodexApp" startPc="268437463">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437407" name="onStop" parent="GenomeCodexApp" startPc="268437403">
+        <functionEntry accessMode="public" endPc="268437472" name="onStop" parent="GenomeCodexApp" startPc="268437468">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437453" name="getInitialView" parent="GenomeCodexApp" startPc="268437408">
+        <functionEntry accessMode="public" endPc="268437518" name="getInitialView" parent="GenomeCodexApp" startPc="268437473">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437527" name="&lt;init&gt;" parent="GenomeCodexApp" startPc="268437509">
+        <functionEntry accessMode="protected" endPc="268437592" name="&lt;init&gt;" parent="GenomeCodexApp" startPc="268437574">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437482" name="getApp" startPc="268437454">
+        <functionEntry accessMode="public" endPc="268437547" name="getApp" startPc="268437519">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437503" name="&lt;init&gt;" parent="Drawables" startPc="268437503">
+        <functionEntry accessMode="protected" endPc="268437568" name="&lt;init&gt;" parent="Drawables" startPc="268437568">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437505" name="&lt;init&gt;" parent="Fonts" startPc="268437505">
+        <functionEntry accessMode="protected" endPc="268437570" name="&lt;init&gt;" parent="Fonts" startPc="268437570">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437507" name="&lt;init&gt;" parent="JsonData" startPc="268437507">
+        <functionEntry accessMode="protected" endPc="268437572" name="&lt;init&gt;" parent="JsonData" startPc="268437572">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437506" name="&lt;init&gt;" parent="Layouts" startPc="268437506">
+        <functionEntry accessMode="protected" endPc="268437571" name="&lt;init&gt;" parent="Layouts" startPc="268437571">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437504" name="&lt;init&gt;" parent="Menus" startPc="268437504">
+        <functionEntry accessMode="protected" endPc="268437569" name="&lt;init&gt;" parent="Menus" startPc="268437569">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437508" name="&lt;init&gt;" parent="Strings" startPc="268437508">
+        <functionEntry accessMode="protected" endPc="268437573" name="&lt;init&gt;" parent="Strings" startPc="268437573">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437502" name="&lt;init&gt;" parent="Rez" startPc="268437484">
+        <functionEntry accessMode="protected" endPc="268437567" name="&lt;init&gt;" parent="Rez" startPc="268437549">
             <documentation/>
         </functionEntry>
     </functions>

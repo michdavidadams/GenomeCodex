@@ -64,7 +64,7 @@ class GenomeCodexView extends WatchUi.WatchFace {
         var timeString = getClockTime(clockTime);
         var clockDate = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
         var dateString = Lang.format("$1$,$2$$3$", [clockDate.day_of_week, clockDate.month, clockDate.day]);
-        dc.setColor(Graphics.COLOR_GREEN,Graphics.COLOR_BLACK);
+        dc.setColor(healthColor,Graphics.COLOR_BLACK);
 		dc.drawText(width/2,60,Graphics.FONT_LARGE,timeString,Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
         dc.drawText(width/2,90,Graphics.FONT_XTINY,dateString,Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
 
@@ -90,12 +90,15 @@ class GenomeCodexView extends WatchUi.WatchFace {
         var steps = activityMonitorInfo.steps;
         if(steps == null) {
             steps = 1;
+            System.print("Steps is null");
         }
         var stepGoal = activityMonitorInfo.stepGoal;
         if(stepGoal == null) {
             stepGoal = 1;
+            System.print("stepGoal is null");
         }
-        dc.fillRoundedRectangle(65, 165, (30 * (steps/stepGoal)), 3, 10);
+        System.print("steps: " + steps + ". stepGoal: " + stepGoal);
+        dc.fillRoundedRectangle(65, 170, (30 * (steps/stepGoal)), 3, 10);
         dc.fillRoundedRectangle(65, 175, 30, 3, 10);
     }
 
